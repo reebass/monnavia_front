@@ -1,16 +1,9 @@
+// import { ButtonMain } from './Buttons/ButtonMain';
+import { Button, Flex, Menu } from 'antd';
+import { DownloadOutlined, HomeOutlined } from '@ant-design/icons';
+import { MainButton, SecondButton } from './Buttons/ButtonMain.styled';
+import { StartPage } from 'pages/StartPage';
+
 export const App = () => {
-  return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
-  );
+  return <StartPage />;
 };
