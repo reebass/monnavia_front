@@ -3,7 +3,7 @@ import { Button, Flex, Layout, Menu } from 'antd';
 import { Content, Header } from 'antd/es/layout/layout';
 import Title from 'antd/es/typography/Title';
 import styled from 'styled-components';
-import { Link, animateScroll as scroll } from 'react-scroll';
+import { animateScroll as scroll } from 'react-scroll';
 
 const FlexStyled = styled(Flex)`
   background-color: black;
