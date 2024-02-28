@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/monnavia_front/static/css/main.7acaea2f.css",
-    "main.js": "/monnavia_front/static/js/main.07d3183d.js",
+    "main.js": "/monnavia_front/static/js/main.0329b173.js",
     "index.html": "/monnavia_front/index.html",
     "main.7acaea2f.css.map": "/monnavia_front/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/monnavia_front/static/js/main.07d3183d.js.map"
+    "main.0329b173.js.map": "/monnavia_front/static/js/main.0329b173.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.0329b173.js"
   ]
 }
